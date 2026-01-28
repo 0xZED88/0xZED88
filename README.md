@@ -9,7 +9,7 @@
 </div>
   <br/><br/>
 
-  <a href="www.linkedin.com/in/zayd-zitan">
+  <a href="https://linkedin.com/in/zayd-zitan">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://discordapp.com/users/z4ydz">
